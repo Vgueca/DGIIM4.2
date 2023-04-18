@@ -1,7 +1,0 @@
-- Lexer takes in the string (reader).
-- Lexer tries to apply longes match
-  - Try with one char
-  - Try with two chars
-  - And so on (until nothing matches, then go back one step)
-  - So it's a loop that stores the first matching token, the loop ends when nothing matches and calls the Symbol constructor with the token.
-- Symbol is called with a token and string/int/real/bool and returns a subclass (StringSymbol, IntSymbol, RealSymbol, BoolSymbol) with that type stored.

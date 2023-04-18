@@ -1,0 +1,16 @@
+0.7141634260435781   Default function
+
+Average BCR:0.7349645461293951   n_estimators=150
+
+
+
+Average BCR:0.7545546695011586 n_estimator = 200
+
+
+
+
+:0.7434548157687731     n_estimators=201,loss='exponential',min_samples_split=7
+
+
+
+0.7780004055689633 = 0.9
